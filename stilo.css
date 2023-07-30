@@ -16,7 +16,9 @@ p {
   font-weight: bold;
   font-family: "Dancing Script", cursive;
 }
-
+#yes{
+  right:30px; 
+  }
 button {
   border: none;
   border-radius: 15px;

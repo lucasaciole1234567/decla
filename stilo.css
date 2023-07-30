@@ -7,15 +7,14 @@ body {
   gap: 30px;
   display: flex;
   background-color: pink;
-  color: rgb(247, 99, 195);
+  color: white;
   padding: 50px;
 }
-
 
 p {
   font-size: 50px;
   font-weight: bold;
-  font-family: "calibri";
+  font-family: "Dancing Script", cursive;
 }
 
 button {
